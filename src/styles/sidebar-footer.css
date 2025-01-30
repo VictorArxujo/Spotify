@@ -42,6 +42,7 @@ body {
 }
 
 .library {
+  width: 100v2;
   margin-top: 10px;
   display: flex;
   background-color: #121212;
